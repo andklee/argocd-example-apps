@@ -19,7 +19,7 @@ spec:
             data:
               type: object
               properties:
-                randomstring
+                randomstring:
                   type: string
   # either Namespaced or Cluster
   scope: Namespaced
